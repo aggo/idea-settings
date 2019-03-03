@@ -1,0 +1,14 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="http://sonar.internal.catalysts.cc" />
+          <token>df9edfc8dfcfdf9bdfc8dfc8dfccdf93df9bdfccdf9edfc8dfcfdfcfdf98df99df98df9bdfc8df9ddf98dfcfdf98df9cdf9cdfc9df9cdf9fdf9bdf9ddf98df9adf9fdfc8dfcedf9fdfcfdfcfdf98df9a</token>
+          <option name="name" value="http://sonar.internal.catalysts.cc" />
+          <organizationKey>default-organization</organizationKey>
+        </SonarQubeServer>
+      </list>
+    </option>
+  </component>
+</application>

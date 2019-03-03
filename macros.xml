@@ -1,0 +1,16 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="extra-save">
+      <action id="ReformatCode" />
+      <action id="AutoIndentLines" />
+      <action id="OptimizeImports" />
+      <action id="SaveAll" />
+    </macro>
+    <macro name="run-tests-with-coverage">
+      <action id="RunCoverage" />
+    </macro>
+    <macro name="close-all-in-group">
+      <action id="CloseAllEditors" />
+    </macro>
+  </component>
+</application>
